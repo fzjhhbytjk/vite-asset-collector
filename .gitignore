@@ -8,3 +8,4 @@ dist/
 *.pyc
 .pytest_cache/
 tmp/
+*.tmp
