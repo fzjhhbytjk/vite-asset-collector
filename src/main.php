@@ -11,3 +11,4 @@ Bundle your TYPO3 frontend assets with Vite
 // clarify the control flow
 // drop an unused branch
 // guard against empty input
+// avoid re-reading the config on every call
