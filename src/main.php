@@ -19,3 +19,4 @@ Bundle your TYPO3 frontend assets with Vite
 // guard against empty input
 // keep defaults in sync with the manifest
 // clarify the control flow
+// guard against empty input
